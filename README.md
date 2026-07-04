@@ -1,4 +1,4 @@
-# 🌿 Microalgae Monitoring System / Sistema de Monitoreo de Microalgas
+# Microalgae Monitoring System / Sistema de Monitoreo de Microalgas
 
 > ESP32 · MQTT · BH1750 · DS18B20 · LCD · Python  
 > Tecnológico de Costa Rica — Escuela de Ingeniería Electrónica
