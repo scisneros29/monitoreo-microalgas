@@ -1,7 +1,7 @@
-# Microalgae Monitoring System / Sistema de Monitoreo de Microalgas
+#    Microalgae Monitoring System / Sistema de Monitoreo de Microalgas
 
-> ESP32 · MQTT · BH1750 · DS18B20 · LCD · Python  
-> Tecnológico de Costa Rica — Escuela de Ingeniería Electrónica
+> ESP32 · MQTT · BH1750 · DS18B20 · LCD   
+> Tecnológico de Costa Rica — Centro de Investigación de Biotecnología
 
 ---
 
@@ -207,7 +207,7 @@ Conectar 3 cables a la caja principal:
 
 Con todos los cables conectados, encender el sistema con el switch al lado del cable de alimentación. La LCD mostrará la secuencia de arranque y luego las lecturas en tiempo real. Si existe algún error, la pantalla lo indicará — apagar y encender el switch para reiniciar.
 
-![Caja principal con conectores](docs/img/gabinete_conectores.jpg)
+![Caja principal con conectores](docs/img/gabinete_conectores.jpeg)
 
 #### 2.2 Observación de datos en tiempo real (MQTT Explorer)
 
@@ -221,7 +221,7 @@ Con todos los cables conectados, encender el sistema con el switch al lado del c
 6. Una vez conectado, expandir el árbol de topics en la izquierda para ver los valores en tiempo real
 7. Para ver una gráfica, hacer doble click en un valor y presionar **Add to chart panel** — se pueden graficar ambos sensores simultáneamente
 
-![MQTT Explorer con datos en tiempo real](docs/img/mqtt_explorer.png)
+![MQTT Explorer con datos en tiempo real](docs/img/mqtt_explorer.jpeg)
 
 #### 2.3 Recopilación y almacenamiento de datos a Excel (Monitor_Microalgas.exe)
 
@@ -238,7 +238,8 @@ Microalgas_DD-MM-YYYY_HH-MM-SS.xls
 
 > Si aparece un error de permisos en rojo, mover el `.exe` al Escritorio o a la carpeta Documentos e intentar de nuevo.
 
-![Aplicación Monitor_Microalgas recopilando datos](docs/img/app_monitor.png)
+![Aplicación Monitor_Microalgas recopilando datos](docs/img/app_monitor1.png)
+![Aplicación Monitor_Microalgas recopilando datos](docs/img/app_monitor2.png)
 
 ---
 
@@ -266,7 +267,7 @@ microalgas-monitor/
 
 ## License / Licencia
 
-MIT — Tecnológico de Costa Rica
+CIB — Tecnológico de Costa Rica
 
 ---
 
