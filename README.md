@@ -243,3 +243,21 @@ microalgas-monitor/
 ## License / Licencia
 
 MIT — Tecnológico de Costa Rica
+
+---
+
+## Credits / Créditos
+
+The MQTT-to-Excel data collection logic (`MQTT2Excel.py`) is based on the work of **[@gsampallo](https://github.com/gsampallo)**:
+
+> [gsampallo/mqtt2excel](https://github.com/gsampallo/mqtt2excel) — Original implementation for collecting MQTT data into Excel using Python.
+
+The desktop application (`Monitor_Microalgas.exe`) extends this base with a graphical interface, real-time data table, progress tracking, and automatic file naming.
+
+---
+
+La lógica de recopilación de datos MQTT a Excel (`MQTT2Excel.py`) está basada en el trabajo de **[@gsampallo](https://github.com/gsampallo)**:
+
+> [gsampallo/mqtt2excel](https://github.com/gsampallo/mqtt2excel) — Implementación original para recopilar datos MQTT en Excel usando Python.
+
+La aplicación de escritorio (`Monitor_Microalgas.exe`) extiende esta base agregando interfaz gráfica, tabla de datos en tiempo real, barra de progreso y nombre de archivo automático.
