@@ -10,6 +10,7 @@
 Real-time environmental monitoring system for a microalgae pond. Reads temperature (DS18B20) and light intensity (BH1750), publishes data over MQTT, and displays live readings on a local LCD screen. A companion Windows app allows data collection and export to Excel without any technical setup.
 
 ![System installed at the microalgae pond](docs/img/sistema_estanque.jpg)
+-->Image pending
 
 ---
 
@@ -128,6 +129,7 @@ Microalgas_DD-MM-YYYY_HH-MM-SS.xls
 Sistema de monitoreo ambiental en tiempo real para un estanque de microalgas. Lee temperatura (DS18B20) e intensidad lumínica (BH1750), publica los datos vía MQTT y muestra las lecturas en pantalla LCD local. Una aplicación Windows permite recopilar y exportar datos a Excel sin configuración técnica.
 
 ![Sistema instalado en el estanque de microalgas](docs/img/sistema_estanque.jpg)
+-->Imagen pendiente
 
 ---
 
